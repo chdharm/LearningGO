@@ -1,0 +1,2 @@
+1. First install MSI Installer for window from golang.org
+2. Create a working directory
